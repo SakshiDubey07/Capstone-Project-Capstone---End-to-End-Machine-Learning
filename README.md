@@ -1,1 +1,2 @@
 # Capstone-Project-Capstone---End-to-End-Machine-Learning
+This project aims to analyze and cluster Netflix’s Movies and TV Shows using unsupervised machine learning techniques to uncover patterns and trends within the platform’s content. The dataset consists of 7,787 entries and includes 12 features, such as content type (movie or TV show), title, director, cast, country, genres, release year, and descriptions. The goal is to group similar content based on both numerical and textual features to better understand Netflix’s content landscape.
